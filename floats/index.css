@@ -1,0 +1,50 @@
+#my-container h1 {
+    color: pink;
+    background-color: red;
+}
+.my-custom-class {
+    color:blue;
+}
+
+h1 {
+    color: black;
+    background-color: gold;
+    display: inline-block;
+    margin: 30px;
+    padding: 30px;
+    border: 50px solid black;
+  }
+  h2 {
+    font-family: helvetica;
+  }
+  span{
+    background-color: orange;
+    height: 200px
+  }
+  div h1{
+    color: red
+  }
+
+  h1{
+      color: cyan !;
+  }
+  .box1, .box2, .box3, .box4 {
+      height: 150px;
+      width: 150px;
+      background-color: magenta;
+  
+    }
+    .box2{
+        float: left;
+        clear: left;
+    }
+    .box3 {
+
+        float: right;
+        clear: left;
+    }
+    .box4 {
+        float: right;
+        clear: both;
+    }
+  
